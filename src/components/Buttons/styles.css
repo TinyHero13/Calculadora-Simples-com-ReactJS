@@ -1,0 +1,22 @@
+.ButtonGroup{
+    background-color: #242527;
+    display: grid;
+    height: 410px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.button{
+    grid-template-columns: repeat(2, 1fr);
+    width: 70px;
+    margin: 5px;
+    margin-top: 20px;
+}
+
+.button:hover{
+    background-color: black;
+}
+
+.button-result{
+    background-color: rgb(95, 27, 84);
+}
