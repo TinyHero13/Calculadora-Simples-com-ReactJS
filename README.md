@@ -3,8 +3,8 @@
 > A simple calculator's design to test React.JS and React Bootstrap.
 
 ## Screenshots
-![Screenshot Calculator](./img/screen1.png)<br />
-![Screenshot Calculator](./img/screen2.png)<br />
+![Screenshot Calculator](./img/screenshot1.png)<br />
+![Screenshot Calculator](./img/screenshot2.png)<br />
 
 
 ## Author
