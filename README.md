@@ -1,4 +1,4 @@
-#<h1 align="center">Welcome to Simple Calculator with React.JS 👋</h1>
+<h1 align="center">Welcome to Simple Calculator with React.JS 👋</h1>
 
 > A simple calculator's design to test React.JS and React Bootstrap.
 
